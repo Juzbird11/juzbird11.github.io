@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[293],{639:function(e,l,u){u.r(l);var n=u(159);l.default=()=>n.createElement("h1",null,"Hello world")}}]);
+//# sourceMappingURL=component---src-pages-index-js-9d7e7d94db6eb48736d5.js.map
