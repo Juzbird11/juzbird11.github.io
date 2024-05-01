@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[125],{3331:function(e,t,a){a.r(t);var n=a(6540),l=a(1967),c=a(6474),r=a(5533);t.default=()=>n.createElement("main",null,n.createElement(l.A,null),n.createElement("div",{className:"container flex justify-center mx-auto px-4"},n.createElement("section",{className:"py-20"},n.createElement(r.Typography,{variant:"h1"},"404"),n.createElement(r.Typography,{variant:"subtitle1"},"Page Not Found"))),n.createElement(c.A,null))}}]);
+//# sourceMappingURL=component---src-pages-404-js-38ebb0e4a82817d5f307.js.map
